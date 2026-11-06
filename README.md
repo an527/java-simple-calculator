@@ -1,2 +1,2 @@
-# java-simple-calculator-NO_AI_USED
+# java-simple-calculator
 This Java program crunches numbers.
